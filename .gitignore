@@ -1,0 +1,7 @@
+# deps
+node_modules/
+.env
+database/execute.js
+database/movies.sqlite
+src/db/fav-youtube-model.ts
+

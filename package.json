@@ -1,0 +1,16 @@
+{
+  "name": "hono",
+  "scripts": {
+    "_dev": "bun src/index.ts",
+    "js": "bun src/main.js",
+    "_db": "bun database/dbSqlite.js"
+  },
+  "dependencies": {
+    "hono": "^4.6.10",
+    "mongoose": "^8.8.2",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
