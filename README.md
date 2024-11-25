@@ -7,5 +7,8 @@ To run:
 ```sh
 bun run dev
 ```
-
-open http://localhost:3000
+To test:
+```
+bun test
+```
+open http://localhost:1234
